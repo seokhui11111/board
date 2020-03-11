@@ -67,3 +67,4 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/additional-methods.min.js"></script>
 <script src="../js/writevalidation.js"></script>
 <%@include file="../include/footer.jsp"%>
+<%-- write 수정 --%>
